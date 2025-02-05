@@ -1,2 +1,2 @@
-# Sanjana
-my personal repository
+## Sanjana
+I am a CSE student in Mahindra University
